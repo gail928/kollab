@@ -118,6 +118,13 @@ section.home {
     flex-wrap: wrap;
     padding: 100px;
 }
+.product {
+    background: url('product\ bg.jpg') no-repeat center center/cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
 
 .card {
     width: 250px;
