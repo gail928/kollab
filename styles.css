@@ -30,10 +30,11 @@ header {
 .nav-links {
     list-style: none;
     display: flex;
+    margin-left: 790px;
 }
 
 .nav-links li {
-    margin-left: 200px;
+    margin-left: 50px;
 }
 
 .nav-links a {
